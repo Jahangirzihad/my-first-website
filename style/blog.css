@@ -1,7 +1,9 @@
 div{
     background-color: aqua;
-    margin: 20px;
+    margin: 30px;
     border: 10px solid cornflowerblue;
     border-radius: 12px;
     padding: 10px;
+    text-align: center;
+    box-shadow: inset;
 }
